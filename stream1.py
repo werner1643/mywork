@@ -1,6 +1,16 @@
 # -*- coding: utf-8 -*- 
 #!/usr/bin/env python
-import urllib.request 
+#ICY 200 OK icy-notice1:
+#This stream requires Winamp
+#icy-notice2:SHOUTcast Distributed Network Audio Server/Linux v1.9.8
+#icy-name:Buddha
+#icy-genre:
+#icy-url:http://www.buddharadio.com
+#content-type:audio/aac
+#icy-pub:0
+#icy-metaint:32768
+#icy-br:32
+#import urllib.request 
 
 stream_url = 'http://185.50.24.141:8000/main_mp3_128'
 request = urllib.request.Request(stream_url)
