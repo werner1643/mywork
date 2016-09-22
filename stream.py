@@ -1,5 +1,13 @@
 # -*- coding: utf-8 -*- 
 #!/usr/bin/env python
+
+#icy-name – название станции
+#icy-genre – музыкальный жанр станции
+#icy-pub - указывает допускает ли сервер публикацию себя в публичной директории (1 – да, 0 -нет)
+#icy-br – битрейт потока
+#icy-url - homepage потока
+#icy-irc, icy-icq, icy-aim – контактная информация для публикации в публичной директории 
+
 import urllib.request 
 
 stream_url = 'http://185.50.24.141:8000/main_mp3_128'
