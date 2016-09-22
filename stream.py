@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*- 
 #!/usr/bin/env python
-
+#http://www.getinfo.ru/article545.html
 #icy-name – название станции
 #icy-genre – музыкальный жанр станции
 #icy-pub - указывает допускает ли сервер публикацию себя в публичной директории (1 – да, 0 -нет)
