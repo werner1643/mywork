@@ -23,5 +23,3 @@ if icy_metaint_header is not None:
     title = content[metaint:]
     print (title.decode('utf8', 'ignore').split("'")[1])
     print (title.decode('utf8', 'ignore').split("'"))
-    
-
